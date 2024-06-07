@@ -45,10 +45,10 @@ SQL queries are executed to perform CRUD (Create, Read, Update, Delete) operatio
 
 ### Steps to run the application
 1. Activate the virtual environment
-venv\Scripts\activate
+(**venv\Scripts\activate**)
 2. Set up your own MySQL database
 3. Run the main file
-python main.py
+(**python main.py**)
 
 
 ---
