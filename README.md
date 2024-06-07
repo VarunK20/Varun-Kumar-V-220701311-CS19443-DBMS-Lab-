@@ -38,8 +38,8 @@ SQL queries are executed to perform CRUD (Create, Read, Update, Delete) operatio
 ---
 
 ### Tech Stack
-**PyQt5 (Python)**
-**MySQL**
+~ **PyQt5 (Python)**
+~ **MySQL**
 
 ---
 
