@@ -3,6 +3,7 @@
 
 ### Art Gallery Management
 Art Gallery Management application allows users to register, login, and manage photo albums. Here's an abstract of the key features and functionality:
+
 **User Authentication**
 
 Users can register by providing their first name, last name, username, email, and password.
@@ -34,6 +35,8 @@ The application uses various PyQt5 widgets, layouts, and dialogs to create the u
 
 The application uses the mysql.connector library to connect to a MySQL database.
 SQL queries are executed to perform CRUD (Create, Read, Update, Delete) operations on the database tables.
+
+The Art Gallery Management application provides a user-friendly interface for managing photo albums and their associated images. It leverages a MySQL database to store user information, album details, and image data, ensuring persistence and efficient data management.
 
 ---
 
