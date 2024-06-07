@@ -66,6 +66,8 @@ SQL queries are executed to perform CRUD (Create, Read, Update, Delete) operatio
 
 ![Screenshot 2024-06-07 100728](https://github.com/VarunK20/Varun-Kumar-V-220701311-CS19443-DBMS-Lab-/assets/167336838/e5f87dad-ad30-4aec-b4ab-06eb98596fde)
 
+![Untitled design (1)](https://github.com/VarunK20/Varun-Kumar-V-220701311-CS19443-DBMS-Lab-/assets/167336838/7c3c68be-53c4-49f1-8dce-454822a7ee2e)
+
 ---
 
 ### Team Members
